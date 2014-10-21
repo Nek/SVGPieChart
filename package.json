@@ -2,7 +2,12 @@
   "name": "SVGPieChart",
   "version": "0.1.0",
   "description": "SVG based pie chart component for React.js",
-  "main": "index.js",
+  "repository": 
+	{
+    "type": "git",
+    "url": "https://github.com/Nek/SVGPieChart.git"
+	},
+	"main": "SVGPieChart.jsx",
   "scripts": {
     "test": "jest"
   },
